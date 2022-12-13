@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  position: relative;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: white;
+  box-sizing: border-box;
+  min-height: 100vh;
+  min-width: 450px
+}
