@@ -1,5 +1,5 @@
 # 🔥 GasCompany
-GasCompany is an administration web panel for the imaginary gas company to monitor customers & their gas meters.
+GasCompany is an administrative web panel for the imaginary gas company to monitor customers & their gas meters.
 
 ## Screenshots
 ![Screenshots of web pages](https://i.imgur.com/xUnUJKw.png)
